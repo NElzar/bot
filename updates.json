@@ -1,0 +1,116 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 554948160,
+      "message": {
+        "message_id": 1,
+        "from": {
+          "id": 1391216796,
+          "is_bot": false,
+          "first_name": "edo",
+          "last_name": "edo"
+        },
+        "chat": {
+          "id": 1391216796,
+          "first_name": "edo",
+          "last_name": "edo",
+          "type": "private"
+        },
+        "date": 1602001677,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 554948161,
+      "message": {
+        "message_id": 3,
+        "from": {
+          "id": 1391216796,
+          "is_bot": false,
+          "first_name": "edo",
+          "last_name": "edo",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 1391216796,
+          "first_name": "edo",
+          "last_name": "edo",
+          "type": "private"
+        },
+        "date": 1602001912,
+        "text": "hi bro"
+      }
+    },
+    {
+      "update_id": 554948162,
+      "message": {
+        "message_id": 4,
+        "from": {
+          "id": 1391216796,
+          "is_bot": false,
+          "first_name": "edo",
+          "last_name": "edo",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 1391216796,
+          "first_name": "edo",
+          "last_name": "edo",
+          "type": "private"
+        },
+        "date": 1602001923,
+        "text": "how are u"
+      }
+    },
+    {
+      "update_id": 554948163,
+      "message": {
+        "message_id": 5,
+        "from": {
+          "id": 1391216796,
+          "is_bot": false,
+          "first_name": "edo",
+          "last_name": "edo",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 1391216796,
+          "first_name": "edo",
+          "last_name": "edo",
+          "type": "private"
+        },
+        "date": 1602060928,
+        "text": "hi"
+      }
+    },
+    {
+      "update_id": 554948164,
+      "message": {
+        "message_id": 6,
+        "from": {
+          "id": 1391216796,
+          "is_bot": false,
+          "first_name": "edo",
+          "last_name": "edo",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 1391216796,
+          "first_name": "edo",
+          "last_name": "edo",
+          "type": "private"
+        },
+        "date": 1602061813,
+        "text": "‚‡˚‚˚‡‚˚‡"
+      }
+    }
+  ]
+}
